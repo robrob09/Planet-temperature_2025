@@ -1,0 +1,9 @@
+0. n_hidden = 7, n_hidden_layers = 4, lr = 0.0009, n_epochs = 3000, batch_size = 4, sigmoid_rate = 0, MSE: 36302
+1. n_hidden = 7, n_hidden_layers = 4, lr = 0.001, n_epochs = 3200, batch_size = 4, sigmoid_rate = 0, MSE: 32343
+2. n_hidden = 4, n_hidden_layers = 5, lr = 0.001, n_epochs = 3200, batch_size = 4, sigmoid_rate = 0, MSE: 4008
+3. n_hidden = 7, n_hidden_layers = 4, lr = 0.001, n_epochs = 3200, batch_size = 4, sigmoid_rate = 0, MSE: 23804
+4. n_hidden = 4, n_hidden_layers = 5, lr = 0.001, n_epochs = 4500, batch_size = 4, sigmoid_rate = 0, MSE: 29642
+5. n_hidden = 4, n_hidden_layers = 5, lr = 0.001, n_epochs = 4500, batch_size = 4, sigmoid_rate = 0, MSE: 2084
+6. n_hidden = 4, n_hidden_layers = 5, lr = 0.001, n_epochs = 6000, batch_size = 4, sigmoid_rate = 0, MSE: 28104
+7. n_hidden = 4, n_hidden_layers = 5, lr = 0.001, n_epochs = 6000, batch_size = 4, sigmoid_rate = 0, MSE: 17239
+8. n_hidden = 4, n_hidden_layers = 5, lr = 0.001, n_epochs = 6000, batch_size = 4, sigmoid_rate = 0, MSE: 25052
